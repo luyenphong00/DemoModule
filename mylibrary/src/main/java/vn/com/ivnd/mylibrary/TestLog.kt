@@ -5,7 +5,7 @@ import android.util.Log
 /**
  * Create by phong.luyenthanh
  */
-class TestLog {
+object TestLog {
     fun logTest(){
         Log.d("AAAAAAAAAAAAA", "TEST LOG ")
     }
