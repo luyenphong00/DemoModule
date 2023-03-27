@@ -10,6 +10,7 @@
     tools:context=".MainActivity">
 
     <ProgressBar
+        android:indeterminateTint="#F7941D"
         android:progressDrawable="@drawable/circular_progress_bar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
